@@ -5,7 +5,12 @@ gitlab mirror [https://gitlab.com/danilw/godot-utils-and-other](https://gitlab.c
 # godot-utils-and-other
 **what is it** my test projects using Godot. I do not recomend use this code for learning.
 
-### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
+___
+
+### Contact with me:
+
+**Matrix-chat room `#Shadertoy:envs.net` invite link** [matrix.to](https://matrix.to/#/#Shadertoy:envs.net) *(use web UI Element if you dont have acc)*
+
 ___
 
 **Licensing and this code** - in this repository used some sketchfab models that under CC-license, also music, and other resource that do not have Mit license. All used resources linked for every project, please check its license before use. My code under MIT license.
